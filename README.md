@@ -9,12 +9,12 @@ To accomplish this course successfully, I cordially thank [Computer graphics dep
 Some plots are shown here 
 
 <p align="center">
-  <img src="figs/square_knob.gif" alt="animated" width="300" />
+  <img src="figs/sph_3600particles.gif" alt="animated" width="200" />
 </p>
 
 Different timesteps of a 1 million particles simulation
 <p align="center">
-  <img src="figs/image_1.PNG" width="500"/>
+  <img src="figs/image_1.PNG" width="300"/>
 </p>
 
 ## Run

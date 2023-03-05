@@ -14,7 +14,7 @@ In this animation, we show a simple solver with 3600 particles that uses pressur
 
 This figure shows the snapshots of a SPH simulation of 400 particles. The stiffness constant is set to K = 30000, viscosity coefficient of ν = 18 and timestep Δt = 0.005 seconds
 <p align="center">
-  <img src="figs/knobs.PNG" width="450"/>
+  <img src="figs/knobs.PNG" width="550"/>
 </p>
 
 This figure shows the snapshots of a SPH simulation of 1 million particles. The stiffness constant is set to K = 20000, viscosity coefficient of ν = 8 and timestep Δt = 0.005 seconds
